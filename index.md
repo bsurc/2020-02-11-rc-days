@@ -297,6 +297,14 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
+Boise State can provide temporary programming environements for some attendees.  Your instructor may point you to:
+  <ul>
+    <li><a href="https://codelab.boisestate.edu">codelab</a></li>
+    <li><a href="https://jupyter.boisestate.edu">jupyter</a></li>
+  </ul>
+</p>
+
+<p>
   To participate in a
   {% if site.carpentry == "swc" %}
   Software Carpentry
